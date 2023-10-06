@@ -13,6 +13,13 @@ This is a simple weather app built in Python written by Kirian and Christina tha
 - Provides clothing recommendations for different weather conditions.
 - User-friendly command-line interface (CLI).
 
+## API
+
+https://api.open-meteo.com/v1/forecast?latitude=51.5085&longitude=-0.1257&hourly=temperature_2m,rain
+
+- Parameters selected: Temperature 2m, Rain
+- Coordinates(London): Lat 51.5085, Long -0.1257
+
 ## Installation
 
 1. Clone this repository to your local machine:
