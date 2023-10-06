@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Logo](894.jpg)
+![Weather App Logo](cloud.jpg)
 
 ## Description
 
